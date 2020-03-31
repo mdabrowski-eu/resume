@@ -6,7 +6,7 @@
 
 ## Education
 **Polish-Japanese Academy of Information Technology, Warsaw, Poland**
-&nbsp;&nbsp; B.S. in Computer and Information Sciences (specialization in Data Mining), *March 2017*
+&nbsp;&nbsp; B.S. in Computer and Information Sciences (specialization in Data Mining), *March 2018*  
 **Komeda School of Jazz and Contemporary Music, Warsaw, Poland**, *2014*
 
 ## Skills, technologies
