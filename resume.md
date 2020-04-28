@@ -19,12 +19,32 @@
 * Docker, some experience with OpenShift and AWS
 
 ## Experience
-**E-point S.A.,Warsaw, Poland**, *May 2017 &ndash; present*
+**Institute of Applied Linguistics, Warsaw, Poland**, *May 2016 &ndash; November 2016*  
+
+* worked as researcher's IT support
+* created application for quantitative analysis of language used in students' essays
+
+**E-point S.A.,Warsaw, Poland**, *April 2017 &ndash; present*  
+
 * work both in oldschool waterfall projects and agile, scrum ones
 * developed internal and external web services for banking industry
 * implemented RESTful services in Spring Boot
 * implemented frontends in React and Angular, builded Progressive Web Apps
 
-**Minima, remote**, *end of 2019 &ndash; present*
+**Offical Polish dubbing of Hanasaku Iroha: Home Sweet Home** *2019*  
+
+* overseen the whole production process as producer
+* recorded and produced sound as sound engineer
+
+**Minima, remote**, *end of 2019 &ndash; present*  
+
 * developed microservice architecture for cloud machine learning solutions
 * worked remotely in small startup environment
+
+**Baeldung, remote** *2020 &ndash; present*  
+
+* wrote tutorial articles about Linux, Java and Spring
+
+## Languages
+* Polish, native
+* English, business proficient
